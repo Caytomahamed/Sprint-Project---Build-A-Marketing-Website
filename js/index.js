@@ -12,24 +12,22 @@
 
 */
 
-var number1= prompt("type a number ");
-var operation= prompt("type operation");
-var number2= prompt("type a number ");
+var x,y,z,oper,result;
+x=prompt("Type first number");
+y=prompt("Type second number");
+oper=prompt("Type an operator");
+result=Number(x)+Number(y);
 
-
-if (number1 / number2) 
-    console.log(result);
-if (number1 - number2) 
-    console.log(result);
-    
-
-if (number1 * number2) 
-    console.log(result);
-else 
-    console.log(result);
-
-    var result = result;
-
-console.log(result)
-
-i
+if(oper=="+"){
+  result=Number(x)+Number(y);
+}
+else if(oper=="/"){
+  result=Number(x)/Number(y);
+}
+else if(oper=="*"){
+result=Number(x)*Number(y);
+}
+else if(oper=="-"){
+  result=Number(x)-Number(y);
+}
+alert("the answer = "+ result)
