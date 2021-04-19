@@ -33,12 +33,20 @@ Demonstrate your understanding of this week's concepts by answering the followin
 Edit this document to include your answers after each question. Make sure to leave a blank line above and below your answer so it is clear and easy to read by your project manager
 
 1. If you were to describe semantic HTML to the next cohort of students, what would you say?
-
+AN == element macno samaynay oo page u samaybay shoqo gaarha 
 2. What are the 4 areas of the box model?
-
+ANS== box modwk waxa weeye element kas ta inoo tixgaliyo sii box
 3. What command do you use in git to copy files from Github?
-
+ans == wax isticmaalnaa git clone
 4. Explain why git is valuable to a team of developers.
+ANS ==
+==>waxa ay usaameeya code repository oo aykuu xafidaysaa code kaa kaga 
+==> waxa ayna tusaysaa ama awood udahay inay ku tusto cida code waxa kabadahay 
+iyo xiliiga labadalay ba 
+==>waxaa team u kordinay saa natiiijada ina ku gadhaan sifuf oo midwalba ama qayb
+baa ay ka shaqayso si fudud (preformance and productivity)
+
+
 
 5. What is the difference between Git and Github?.
 

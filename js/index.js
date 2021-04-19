@@ -11,3 +11,25 @@
 5. Console.log the result.
 
 */
+
+var number1= prompt("type a number ");
+var operation= prompt("type operation");
+var number2= prompt("type a number ");
+
+
+if (number1 / number2) 
+    console.log(result);
+if (number1 - number2) 
+    console.log(result);
+    
+
+if (number1 * number2) 
+    console.log(result);
+else 
+    console.log(result);
+
+    var result = result;
+
+console.log(result)
+
+i
