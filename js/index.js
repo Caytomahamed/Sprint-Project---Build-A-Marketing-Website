@@ -11,3 +11,23 @@
 5. Console.log the result.
 
 */
+
+var x,y,z,oper,result;
+x=prompt("Type first number");
+y=prompt("Type second number");
+oper=prompt("Type an operator");
+result=Number(x)+Number(y);
+
+if(oper=="+"){
+  result=Number(x)+Number(y);
+}
+else if(oper=="/"){
+  result=Number(x)/Number(y);
+}
+else if(oper=="*"){
+result=Number(x)*Number(y);
+}
+else if(oper=="-"){
+  result=Number(x)-Number(y);
+}
+alert("the answer = "+ result)
